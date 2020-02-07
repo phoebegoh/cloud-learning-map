@@ -1,6 +1,6 @@
 # Liberally borrowed from https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 theme                    : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale           : en
@@ -46,7 +46,7 @@ social:
 # Site Author
 author:
   name             : "Phoebe Goh"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/coffa.jpg"
   bio              : "Girl with hat who likes cats and enterprise tech"
   location         : "MI, USA"
   email            :
@@ -213,3 +213,11 @@ defaults:
       comments: false
       share: true
       related: true
+  #_pages
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+      toc: true

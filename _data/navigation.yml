@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "AWS"
+    url: /aws/
+  - title: "Azure"
+    url: /azure/
+  - title: "Google Cloud"
+    url: /gcp/
+  #- title: "NetApp"
+  #  url: /netapp/
+  - title: "Other neat stuff"
+    url: /other/

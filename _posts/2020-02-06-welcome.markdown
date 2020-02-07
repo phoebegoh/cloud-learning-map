@@ -1,0 +1,14 @@
+---
+layout: posts
+title:  "Welcome to Phoebe's site"
+date:   2020-02-06 14:12:54 -0600
+categories: updates
+---
+
+I am a bit of a collector of _stuff_. Things like information that I might use one day, web clippings, photographs, etc.
+
+I like to share these with people who might enjoy my curation of content.
+
+Enjoy!
+
+- Phoebe
