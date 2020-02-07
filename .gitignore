@@ -5,3 +5,5 @@ _site
 
 .bundle/
 vendor/
+
+_pages/netapp.md

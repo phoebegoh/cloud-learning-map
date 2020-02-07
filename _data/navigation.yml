@@ -7,7 +7,7 @@ main:
   - title: "Azure"
     url: /azure/
   - title: "Google Cloud"
-    url: /gcp/
+    url: /google/
   #- title: "NetApp"
   #  url: /netapp/
   - title: "Other neat stuff"

@@ -13,18 +13,15 @@
 * Amazon EKS Starter: Docker on AWS EKS with Kubernetes (4.5hrs) https://netapp.udemy.com/course/amazon-eks-starter-kubernetes-on-aws/
 
 ## Certification Prep
-* AWS Certified Cloud Practitioner course (6h): https://netapp.udemy.com/course/aws-certified-cloud-practitioner-q/
-* AWS Certified Solutions Architect - Associate course Option 1 (13hrs) https://netapp.udemy.com/course/linux-academy-aws-certified-solutions-architect-associate/
-* AWS Certified Solution Architect - Associate course Option 2 (14hrs) https://netapp.udemy.com/course/aws-solution-architect-associate/
-* Ultimate AWS Certified Solutions Architect 2020 course Option 3 (18h) https://netapp.udemy.com/course/aws-certified-solutions-architect-associate-saa-c01/
+* AWS Certified Cloud Practitioner course (6h): <https://netapp.udemy.com/course/aws-certified-cloud-practitioner-q/>
+* AWS Certified Solutions Architect - Associate course Option 1 (13hrs) <https://netapp.udemy.com/course/linux-academy-aws-certified-solutions-architect-associate/>
+* AWS Certified Solution Architect - Associate course Option 2 (14hrs) <https://netapp.udemy.com/course/aws-solution-architect-associate/>
+* Ultimate AWS Certified Solutions Architect 2020 course Option 3 (18h) <https://netapp.udemy.com/course/aws-certified-solutions-architect-associate-saa-c01/>
 
 ## Certifications
-AWS Certified Cloud Practitioner
-https://aws.amazon.com/certification/certified-cloud-practitioner/
-AWS Certified Solutions Architect - Associate
-https://aws.amazon.com/certification/certified-solutions-architect-associate/
-AWS Certified Solutions Architect - Professional
-https://aws.amazon.com/certification/certified-solutions-architect-professional/
+* AWS Certified Cloud Practitioner <https://aws.amazon.com/certification/certified-cloud-practitioner/>
+* AWS Certified Solutions Architect - Associate <https://aws.amazon.com/certification/certified-solutions-architect-associate/>
+* AWS Certified Solutions Architect - Professional <https://aws.amazon.com/certification/certified-solutions-architect-professional/>
 
 ## Other Resources
 * AWS Free Tier: https://aws.amazon.com/free/

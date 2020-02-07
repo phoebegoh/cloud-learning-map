@@ -4,14 +4,14 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "default",
 
 # Site Settings
 locale           : en
-title            : phoebe's useful things
+title            : "phoebe's cloud learning map"
 title-separator  : "|"
 # subtitle appears below site title
-subtitle         : "because she forgets a lot"
-name             : "Phoebe"
-description      : "phoebe goh's personal site of useful things that she probably forgot she cared about"
+subtitle         : "First, seek knowledge."
+name             : "Phoebe Goh"
+description      : "Phoebe Goh's list of cloud learning resources from zero to cloud architect."
 # url: hostname without /. baseurl = subpath of site e.g. "/blog"
-url              : "https://phoebe-forgets-stuff"
+url              : "https://cloud-learning-map.netlify.com"
 baseurl          : ""
 # repository       : Github username/repo name e.g. "phoebegoh/blah"
 teaser           : "/assets/images/500x300.png"
