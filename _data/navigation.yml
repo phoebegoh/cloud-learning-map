@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "About"
+    url: /about/
   - title: "AWS"
     url: /aws/
   - title: "Azure"
@@ -10,5 +12,5 @@ main:
     url: /google/
   #- title: "NetApp"
   #  url: /netapp/
-  - title: "Other neat stuff"
+  - title: "Misc"
     url: /other/

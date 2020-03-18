@@ -18,7 +18,7 @@
 * Google Cloud Professional Cloud Architect: https://www.coursera.org/professional-certificates/gcp-cloud-architect
 
 
-## Certification
+## Certifications
 * Google Cloud Associate Cloud Engineer https://cloud.google.com/certification/cloud-engineer
 * Google Cloud Professional Cloud Architect https://cloud.google.com/certification/cloud-architect
 * Google Cloud Professional Cloud DevOps Engineer: https://cloud.google.com/certification/cloud-devops-engineer
